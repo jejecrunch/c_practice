@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variable_multiple_decl.c">
+    <ClCompile Include="variable_decl_init.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
