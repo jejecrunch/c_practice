@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="integer_min.c">
+    <ClCompile Include="integer_max_overflow.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
