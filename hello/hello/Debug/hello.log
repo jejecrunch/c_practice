@@ -1,6 +1,2 @@
-﻿  integer_min_underflow.c
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(7): warning C4307: '-': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(8): warning C4307: '-': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(5): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(6): warning C4305: '초기화 중': 'int'에서 'short'(으)로 잘립니다.
+﻿  integer_stdint.c
   hello.vcxproj -> D:\1. 전공 관련\clanguageprac\hello\Debug\hello.exe

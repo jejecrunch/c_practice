@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="integer_min_underflow.c">
+    <ClCompile Include="integer_stdint.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
