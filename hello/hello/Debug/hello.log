@@ -1,2 +1,3 @@
-﻿  unsigned_integer.c
+﻿  integer_overflow.c
+d:\1. 전공 관련\clanguageprac\hello\hello\integer_overflow.c(7): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
   hello.vcxproj -> D:\1. 전공 관련\clanguageprac\hello\Debug\hello.exe
