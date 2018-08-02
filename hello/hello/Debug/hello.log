@@ -1,16 +1,6 @@
-﻿  integer_max_overflow.c
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(7): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(8): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(9): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(19): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(20): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(21): warning C4307: '+': 정수 계열 상수 오버플로입니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(14): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ' '이(가) 있습니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(14): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-  d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(14): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(17): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(18): warning C4305: '초기화 중': 'int'에서 'unsigned short'(으)로 잘립니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(26): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ' '이(가) 있습니다.
-d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(26): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-  d:\1. 전공 관련\clanguageprac\hello\hello\integer_max_overflow.c(26): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+﻿  integer_min_underflow.c
+d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(7): warning C4307: '-': 정수 계열 상수 오버플로입니다.
+d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(8): warning C4307: '-': 정수 계열 상수 오버플로입니다.
+d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(5): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+d:\1. 전공 관련\clanguageprac\hello\hello\integer_min_underflow.c(6): warning C4305: '초기화 중': 'int'에서 'short'(으)로 잘립니다.
   hello.vcxproj -> D:\1. 전공 관련\clanguageprac\hello\Debug\hello.exe
