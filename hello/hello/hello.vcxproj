@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="integer2.c" />
+    <ClCompile Include="unsigned_integer.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8B59211A-A6DB-434F-910C-30CB125817CF}</ProjectGuid>
