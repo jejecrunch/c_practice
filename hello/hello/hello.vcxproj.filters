@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="real_number.c">
+    <ClCompile Include="real_number_exponential_notation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
