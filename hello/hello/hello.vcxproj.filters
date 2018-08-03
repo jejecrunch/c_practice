@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="integer_stdint.c">
+    <ClCompile Include="real_number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
