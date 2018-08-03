@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="real_number_sizeof.c">
+    <ClCompile Include="real_number_min_max.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
